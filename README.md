@@ -1,4 +1,4 @@
-👋 Hi, I’m Sadegh Movahed, Front-End Developer.
+👋 Hi, I’m Sadeq Movahed, Front-End Developer.
 👀 I’m interested in designing websites and applications.
 🌱 I’m currently learning Python, JavaScript, HTML & CSS languages to create and design websites and windows apps.
 💞️ My Pro Skills :
