@@ -1,6 +1,6 @@
 👋 Hi, I’m Sadeq Movahed, Front-End Developer.
 👀 I’m interested in designing websites and applications.
-🌱 I’m currently learning Python, JavaScript, HTML & CSS languages to create and design websites and windows apps.
+🌱 I’m currently learning JavaScript, HTML & CSS languages to create and design websites and web applications.
 💞️ My Pro Skills :
 💯 HTML & CSS(Intermediate), JavaScript(Preliminary), JQUERY(Preliminary), Bootstrap(Intermediate), Git(Preliminary)
 📫 How to reach me : sadeqmail136@gmail.com
